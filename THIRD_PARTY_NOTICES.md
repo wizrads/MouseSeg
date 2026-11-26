@@ -21,7 +21,8 @@ MouseSeg builds upon the following open-science datasets, pretrained teacher mod
    - Software & Hugging Face Weights (`github.com/namijiang/AutoMICE`, `huggingface.co/namijiang98/AutoMICE`): **Apache License 2.0 (`Apache-2.0`)**.
    - Zenodo Model Weights (`https://doi.org/10.5281/zenodo.13841139`): **Creative Commons Attribution 4.0 International (`CC BY 4.0`)**.
 
-2. **TumSeg Pretrained 3D U-Net Models (`KjaerLab/TumSeg`)**
+2. **TumSeg Pretrained 3D U-Net Models (`Jensen et al., 2026`; `KjaerLab/TumSeg`)**
+   - Citation: Jensen, M. E. K., Clemmensen, A., Hansen, J. G., van Krimpen Mortensen, J., Christensen, E. S., Ripa, R. S., & Kjaer, A. (2026). *Automatic deep learning-based tumor segmentation for PET-CT in mice with an uncertainty quantification module*. Scientific Reports, 16(1), 34043. https://doi.org/10.1038/s41598-026-57464-8
    - Repository: `https://github.com/KjaerLab/TumSeg`
    - License: **Creative Commons Attribution-NonCommercial 4.0 International (`CC BY-NC 4.0`)** (`https://creativecommons.org/licenses/by-nc/4.0/`).
 
