@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+<defs>
+<mask id="mb" maskUnits="userSpaceOnUse" x="0" y="0" width="64" height="64">
+<rect width="64" height="64" fill="#000"/>
+<path d="M8 40C8 27 18 20 29 21C39 22 47 28 57 37.5C58.3 38.7 57.8 40.6 56 41C51 42 46 43 42 46C39 48 35 49 30 49H16C11 49 8 45.5 8 40Z" fill="#fff"/>
+<path d="M9.5 44.5C3 46.5 2.5 54.5 9.5 55.5C17 56.5 26 53.5 44 54" fill="none" stroke="#000" stroke-width="6.2" stroke-linecap="round"/>
+<circle cx="39" cy="19.5" r="8.5" fill="#000"/>
+<g fill="none" stroke="#000" stroke-width="1.6"><path d="M23 14V56"/><path d="M45 14V56"/><path d="M0 34.5H45"/></g>
+<circle cx="49.5" cy="33.6" r="1.8" fill="#000"/>
+</mask>
+</defs>
+<g transform="translate(0 2)">
+<g mask="url(#mb)">
+<rect width="23" height="34.5" fill="#2FA37A"/>
+<rect y="34.5" width="23" height="30" fill="#E8A838"/>
+<rect x="23" width="22" height="34.5" fill="#5BB8EF"/>
+<rect x="23" y="34.5" width="22" height="30" fill="#C8744A"/>
+<rect x="45" width="19" height="64" fill="#F07860"/>
+</g>
+<circle cx="39" cy="19.5" r="7" fill="#E58FB6"/>
+<path d="M9.5 44.5C3 46.5 2.5 54.5 9.5 55.5C17 56.5 26 53.5 44 54" fill="none" stroke="#C34FD6" stroke-width="3" stroke-linecap="round"/>
+</g>
+</svg>

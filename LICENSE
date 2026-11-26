@@ -1,0 +1,32 @@
+MouseSeg: Academic and Non-Commercial Research Use Only License
+
+Copyright (c) 2026 MouseSeg Authors (Joseph B. Schulz, Campbell Haasch, Ohyun Kwon, and Bryan P. Bednarz)
+
+1. Academic and Non-Commercial Research License (CC BY-NC 4.0)
+Except as noted in Section 3 and THIRD_PARTY_NOTICES.md, all MouseSeg trained
+model weights, companion web application assets, documentation, and
+accompanying code in this repository are made available for Academic and
+Non-Commercial Research Use Only under the Creative Commons Attribution-
+NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+Full Legal Code: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+Human-Readable Summary: https://creativecommons.org/licenses/by-nc/4.0/
+
+Under CC BY-NC 4.0, you are free to share (copy and redistribute) and adapt
+(remix, transform, and build upon) this material for non-commercial purposes
+provided you give appropriate credit, provide a link to the license, indicate
+if changes were made, and do not apply additional legal or technological
+restrictions. Commercial use is strictly prohibited without prior written
+permission from the copyright holders.
+
+2. Preclinical Research Disclaimer (Non-Clinical / Not a Medical Device)
+THIS SOFTWARE AND THE INCLUDED SEGMENTATION MODELS ARE INTENDED STRICTLY FOR
+PRECLINICAL SMALL-ANIMAL (MURINE MICRO-CT) RESEARCH USE ONLY. THEY ARE NOT
+CLEARED OR APPROVED BY THE U.S. FOOD AND DRUG ADMINISTRATION (FDA) OR ANY
+OTHER REGULATORY BODY FOR HUMAN CLINICAL, DIAGNOSTIC, THERAPEUTIC, OR
+RADIOTHERAPY TREATMENT-PLANNING USE. THE SOFTWARE AND MODELS ARE PROVIDED
+"AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+
+3. Third-Party Components Preserved Under Their Own Licenses
+Upstream datasets, teacher models, and open-source software dependencies retain
+their original licenses and attributions as detailed in THIRD_PARTY_NOTICES.md.
