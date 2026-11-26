@@ -1,6 +1,6 @@
 # <img src="assets/mouseseg_icon.svg" width="36" height="36" align="center" alt="MouseSeg icon" /> MouseSeg
 
-Open-source 3D mouse organ and subcutaneous tumor CT segmentation in under 10 seconds on standard CPUs.
+Open-source 3D murine micro-CT and cone-beam CT (CBCT) segmentation of 10 organs at risk (OARs), subcutaneous xenograft and syngeneic tumors, and cradle-stripped whole-body masks in under 10 seconds on standard CPUs. Built as a lightweight Python NIfTI command-line tool (in the style of TotalSegmentator and MOOSE for preclinical small-animal radiotherapy, radiopharmaceutical dosimetry, and oncology imaging) with a companion zero-install WebAssembly browser application.
 
 **Try instantly in your browser (zero install, 100% local):** [https://mouseseg.joeyschulz.com](https://mouseseg.joeyschulz.com)
 

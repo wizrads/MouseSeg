@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use MouseSeg in your research, please cite the accompanying preprint."
+type: software
+title: "MouseSeg: Open Source 3D Mouse Organ and Tumor CT Segmentation in Under 10 Seconds Without GPUs"
+abstract: "Open-source 3D murine micro-CT and cone-beam CT segmentation of 10 mouse organs at risk, subcutaneous tumors, and cradle-stripped body masks in under 10 seconds on standard CPUs via ONNX Runtime and WebAssembly."
+authors:
+  - family-names: Schulz
+    given-names: Joseph B.
+    email: jschulz9@wisc.edu
+    affiliation: "Department of Medical Physics, School of Medicine and Public Health, University of Wisconsin, Madison, WI, USA"
+  - family-names: Haasch
+    given-names: Campbell
+    affiliation: "Department of Medical Physics, School of Medicine and Public Health, University of Wisconsin, Madison, WI, USA"
+  - family-names: Kwon
+    given-names: Ohyun
+    affiliation: "Department of Medical Physics and Department of Radiation Medicine, University of Wisconsin, Madison, WI, USA"
+  - family-names: Bednarz
+    given-names: Bryan P.
+    affiliation: "Department of Medical Physics, School of Medicine and Public Health, University of Wisconsin, Madison, WI, USA"
+repository-code: "https://github.com/wizrads/MouseSeg"
+url: "https://mouseseg.joeyschulz.com"
+license: CC-BY-NC-4.0
+keywords:
+  - mouse micro-CT
+  - murine segmentation
+  - cone-beam CT
+  - subcutaneous tumor
+  - organs at risk
+  - preclinical radiotherapy
+  - radiopharmaceutical dosimetry
+  - NIfTI
+  - ONNX Runtime
+  - WebAssembly
+preferred-citation:
+  type: article
+  title: "MouseSeg: Open Source 3D Mouse Organ and Tumor CT Segmentation in Under 10 Seconds Without GPUs"
+  authors:
+    - family-names: Schulz
+      given-names: Joseph B.
+    - family-names: Haasch
+      given-names: Campbell
+    - family-names: Kwon
+      given-names: Ohyun
+    - family-names: Bednarz
+      given-names: Bryan P.
+  year: 2026
+  url: "https://github.com/wizrads/MouseSeg"
+  notes: "arXiv preprint; Web application: https://mouseseg.joeyschulz.com"
